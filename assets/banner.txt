@@ -1,0 +1,8 @@
+#######################################################
+#                                                     #
+#      ThousandEyes Terraform Tests Tool              #
+#                                                     #
+#     Script to get tests data from ThousandEyes      #
+#            using python and TF                      #
+#                                                     #
+#######################################################
